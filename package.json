@@ -2,4 +2,5 @@
   "devDependencies": {
     "hasura-cli": "^2.9.0"
   }
+
 }
