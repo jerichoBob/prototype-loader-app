@@ -1,5 +1,5 @@
 version: 3
-endpoint: https://peaceful-halibut-94.hasura.app/v1/graphql
+endpoint: https://peaceful-halibut-94.hasura.app
 metadata_directory: metadata
 actions:
   kind: synchronous
